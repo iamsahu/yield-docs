@@ -9,7 +9,7 @@ const config = {
   title: 'Yield Protocol',
   tagline: 'Fixedrates are cool',
   url: 'https://iamsahu.github.io',
-  baseUrl: '/',
+  baseUrl: '/yield-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
