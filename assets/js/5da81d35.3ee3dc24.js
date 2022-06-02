@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyield_docs=self.webpackChunkyield_docs||[]).push([[2055],{6888:function(e){e.exports=JSON.parse('{"permalink":"/yield-docs/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

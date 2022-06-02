@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyield_docs=self.webpackChunkyield_docs||[]).push([[944],{1662:function(s){s.exports=JSON.parse('{"label":"docusaurus","permalink":"/yield-docs/blog/tags/docusaurus","allTagsPath":"/yield-docs/blog/tags","count":4}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyield_docs=self.webpackChunkyield_docs||[]).push([[4956],{2343:function(e){e.exports=JSON.parse('{"label":"facebook","permalink":"/yield-docs/blog/tags/facebook","allTagsPath":"/yield-docs/blog/tags","count":1}')}}]);
