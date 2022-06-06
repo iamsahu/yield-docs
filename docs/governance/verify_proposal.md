@@ -2,7 +2,7 @@
 
 Timelock proposals are identified by a 32-byte hash, such as: `6B1705CD4D1F0471C2BA7D67A30441D998CA4A5BC5F68E784B1538E883BA4AFA`
 
-We will decode a proposal from its hash using 3 tools: [etherscan](etherscan.io), the [4byte function signature database](https://www.4byte.directory/signatures), and the [adibas03](https://adibas03.github.io/online-ethereum-abi-encoder-decoder/#/decode) abi decoder.
+We will decode a proposal from its hash using 3 tools: [etherscan](https://etherscan.io), the [4byte function signature database](https://www.4byte.directory/signatures), and the [adibas03](https://adibas03.github.io/online-ethereum-abi-encoder-decoder/#/decode) abi decoder.
 
 ## Find the calldata
 
