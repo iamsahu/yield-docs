@@ -1,6 +1,3 @@
----
-slug: /
----
 # Cauldron
 ## CauldronMath
 
